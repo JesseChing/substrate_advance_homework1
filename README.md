@@ -1,2 +1,9 @@
-# substrate_advance_homework1
-substrate unit test demo
+# substrate进阶课程作业
+
+
+# 编写存证模块的单元测试代码，包括： 创建存证的测试用例 撤销存证的测试用例 转移存证的测试用例（作业代码放在question1目录）
+
+# 创建存证时，为存证内容的哈希值 Vec；设置长度上限，超过限制时返回错误，并编写测试用例（作业代码放在question2目录）
+
+## 运行结果截图
+![ScreenShot.png运行结果截图](ScreenShot.png)
